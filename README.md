@@ -48,14 +48,11 @@ A partir dos dados disponíveis, o objetivo principal foi:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/seuprojeto-churn.git
-   
-2. Instale as dependências (recomenda-se usar um ambiente virtual):
-pip install -r requirements.txt
+   git clone https://github.com/Larymattos/Challenger-Data-Science-TelecomX
 
-3. Execute o notebook 'TelecomX_BR.ipynb' para visualizar a análise completa.
+2. Execute o notebook 'TelecomX_BR.ipynb' para visualizar a análise completa.
    
-4. Bibliotecas utilizadas:
+3. Bibliotecas utilizadas:
  - pandas
  - numpy
  - matplotlib
